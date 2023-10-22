@@ -1,0 +1,6 @@
+.idea
+dist
+build
+datahound_mysql.egg-info
+venv
+__pycache__
