@@ -1,6 +1,10 @@
 # Datahound MySQL
 
+<<<<<<< HEAD
 A MySQL connector for [datahound](https://github.com/Techi-Freki/datahound).
+=======
+A MySQL connector for [datahound](https://pytyhon.dbcombs.com/simple/datahound).
+>>>>>>> 5ba44f7d479052a04c24aadf6674b65140ebf1d3
 
 ## Usage
 
